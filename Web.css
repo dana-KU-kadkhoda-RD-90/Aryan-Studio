@@ -6,7 +6,7 @@
 }
 
 body {
-	background-image: url("image2.png");
+	background-image: url("image2.jpg");
 	max-width: 100%;
 }
 
@@ -94,6 +94,11 @@ audio {
 	color: white
 }
 
+.div2 {
+	width: 80%;
+	margin-left: 10%;
+}
+
 h1 {
 	color: #9A51BC; 
 	font-size: 60px; 
@@ -130,8 +135,5 @@ h1 {
 
 .p5 {
 	color: white;
-	margin: 40px 200px;
-
+	margin: 40px 150px;
 }
-
-
