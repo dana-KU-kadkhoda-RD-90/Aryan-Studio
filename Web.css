@@ -7,7 +7,7 @@
 
 body {
 	background-image: url("image2.png");
-	max-width: 1400px;
+	max-width: 100%;
 }
 
 ul {
@@ -133,4 +133,5 @@ h1 {
 	margin: 40px 200px;
 
 }
+
 
