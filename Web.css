@@ -6,7 +6,7 @@
 }
 
 body {
-	background-image: url("image2.jpg");
+	background-image: url("image2.png");
 	max-width: 100%;
 }
 
@@ -138,3 +138,4 @@ h1 {
 	color: white;
 	margin: 40px 150px;
 }
+
