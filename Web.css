@@ -86,11 +86,11 @@ audio {
 }
 
 .div1 {
-	float: left; 
-	width: 40%;
+	float: left;
+	width: 39%;
 	padding-top: 10px;
 	padding-left: 1%;
-	font-size: 40px; 
+	font-size: 30px; 
 	color: white
 }
 
@@ -139,4 +139,5 @@ h1 {
 	color: white;
 	margin: 40px 150px;
 }
+
 
