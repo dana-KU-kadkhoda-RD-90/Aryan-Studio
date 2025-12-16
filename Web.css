@@ -24,7 +24,7 @@ li {
     height: 50px;
     display: block;
     text-align: center;
-    font-size: 22px;
+    font-size: 20px;
     cursor: pointer;
 }
 
@@ -89,7 +89,6 @@ audio {
 	float: left;
 	width: 39%;
 	padding-top: 10px;
-	padding-left: 1%;
 	font-size: 30px; 
 	color: white
 }
@@ -139,5 +138,6 @@ h1 {
 	color: white;
 	margin: 40px 150px;
 }
+
 
 
