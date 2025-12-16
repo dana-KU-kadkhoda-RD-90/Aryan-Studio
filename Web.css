@@ -6,7 +6,7 @@
 }
 
 body {
-	background-image: url("image/image2.jpg");
+	background-image: url("image2.jpg");
 	max-width: 1400px;
 }
 
@@ -131,4 +131,5 @@ h1 {
 .p5 {
 	color: white;
 	margin: 40px 200px;
+
 }
