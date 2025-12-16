@@ -6,7 +6,7 @@
 }
 
 body {
-	background-image: url("image2.png");
+	background-image: url("image2.jpg");
 	max-width: 100%;
 }
 
@@ -87,8 +87,9 @@ audio {
 
 .div1 {
 	float: left; 
-	width: 50%; 
-	padding-left: 50px; 
+	width: 50%;
+	padding-top: 10px;
+	padding-left: 5%;
 	font-size: 40px; 
 	color: white
 }
@@ -138,4 +139,3 @@ h1 {
 	color: white;
 	margin: 40px 150px;
 }
-
