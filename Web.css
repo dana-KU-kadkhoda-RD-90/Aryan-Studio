@@ -60,7 +60,7 @@ footer {
 
 
 .button1 {
-	width: 40%; 
+	width: 30%; 
 	float: left;
 	height: auto; 
 	font-size: 28px; 
@@ -72,7 +72,7 @@ footer {
 }
 
 .button2 {
-	width: 40%;
+	width: 30%;
 	float: right;
 	height: auto; 
 	font-size: 28px; 
@@ -155,6 +155,7 @@ h1 {
 	margin: 40px 150px;
 	font-size: 13px; 
 }
+
 
 
 
