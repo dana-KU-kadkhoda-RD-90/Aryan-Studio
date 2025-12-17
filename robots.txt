@@ -1,0 +1,8 @@
+# User-agent: * 
+User-agent: *
+
+# Disallow: :  
+Disallow:
+
+# Sitemap: 
+Sitemap: https://dana-ku-kadkhoda-rd-90.github.io/Aryan-Studio/sitemap.xml
