@@ -68,7 +68,7 @@ footer {
 	border-radius: 10px; 
 	background-color: #180C2C; 
 	color: white; 
-	margin-right: 10%;
+	margin-left: 8%;
 	margin-bottom: 15px;
 }
 
@@ -81,7 +81,7 @@ footer {
 	border-radius: 10px; 
 	background-color: #180C2C; 
 	color: white; 
-	margin-left: 10%;
+	margin-right: 8%;
 	margin-bottom: 15px;
 }
 
@@ -155,9 +155,10 @@ h1 {
 
 .p5 {
 	color: white;
-	margin: 40px 150px;
-	font-size: 13px; 
+	margin: 30px 150px;
+	font-size: 11px; 
 }
+
 
 
 
