@@ -1,13 +1,31 @@
 @charset "utf-8";
 
-table {
-	width: 100%; 
-	border: 1px solid #FFFFFF; 
-	align:center; 
-	background-color:#2C1254;
-	color: white;
+@font-face {
+	font-family: titrfont;
+	src: url("BTitrBd.ttf")
 }
 
-td {
-	border: 1px solid #FFFFFF;
+.div1 {
+	width: 40%;
+	background-color: antiquewhite;
+	float: right;
+	border-radius: 10px;
+} 
+
+.p1 {
+	padding: 10px;
+	text-align: center;
+	border: 2px solid #000000;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+.p2 {
+	font-family: titrfont;
+	padding-right: 5px;
+}
+
+.p3 {
+	padding: 8px;
+	
 }
