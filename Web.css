@@ -86,7 +86,7 @@ footer {
 }
 
 table {
-	width: 90%; 
+	width: 100%; 
 	height: auto; 
 	margin-bottom: 10px; 
 	margin-top: 0;
@@ -110,8 +110,8 @@ audio {
 }
 
 .div2 {
-	width: 65%;
-	margin-left: 17.5%;
+	width: 60%;
+	margin-left: 20%;
 }
 
 
@@ -159,6 +159,7 @@ h1 {
 	margin: 30px 150px;
 	font-size: 11px; 
 }
+
 
 
 
