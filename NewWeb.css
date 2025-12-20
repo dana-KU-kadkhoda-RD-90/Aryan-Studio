@@ -1,0 +1,131 @@
+@charset "utf-8";
+
+@font-face {
+	font-family: titrfont;
+	src: url("BTitrBd.ttf")
+}
+
+body {
+	background: radial-gradient(circle at center, #1a3c40 0%, #0d1b1e 100%);
+	color: white;
+	overflow-x: hidden;
+	font-family: 'Vazirmatn', sans-serif;
+	
+	
+}
+
+.liclass {
+	list-style-type: none;
+	float: left;
+	padding-left: 45px;
+	cursor: pointer;
+	font-family: titrfont;
+	padding-bottom: 10px;
+	transition: all 0.4s
+}
+
+.liclass2 {
+	float: right;
+	color: aqua;
+	font-size: 20px;
+	list-style-type: none;
+	padding-bottom: 10px;
+	
+}
+
+.liclass:hover {
+	color: #77DCFF;
+}
+
+.ul1 {
+	background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+}
+
+.div1 {
+	background-color: #103545;
+    width: 100%;
+    display: flow-root;
+    padding: 0;
+	height: auto;
+}
+
+.h21 {
+	margin-left: 20%;
+	color: #ECEB52;
+	font-family: titrfont;
+	text-align: center;
+	font-size: 50px
+}
+
+.p1{
+	float: right;
+	color: gray;
+	margin-top: 0px;
+	font-size: 18px
+
+}
+
+.p2 {
+	font-size: 15px;
+	float: right;
+	color: #D9D9D9
+}
+
+.div2 {
+	width: 40%;
+	margin-left: 5%;
+	float: left;
+}
+
+.b1 {
+	color: black;
+	background-color: yellow;
+	border-radius: 35px;
+	width: 120px;
+	height: 30px;
+	border: 0px;
+	float: right;
+	margin-top: 10px;
+	font-size: 15px;
+	cursor: pointer;
+	margin-right: 12%;
+	
+}
+
+.b2 {
+	color: white;
+	background-color: #103545;
+	border-radius: 35px;
+	width: 120px;
+	height: 30px;
+	border: 1px solid #FFFFFF;
+	float: right;
+	margin-top: 10px;
+	margin-right: 10px;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+.profile {
+	position: relative;
+	width: 25%;
+	height: 30%;
+	border-radius: 50%;
+    padding: 10px;
+    background: linear-gradient(45deg, #00f2fe, #4facfe);
+    box-shadow: 0 0 25px rgba(79, 172, 254, 0.7);
+	float: right;
+	margin-right: 12%
+}
+
+.a1 {
+	color: white;
+	text-decoration: none;
+	transition: all 0.4s
+	
+}
+
+.a1:hover {
+	color: #77DCFF
+}
