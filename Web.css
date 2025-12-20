@@ -24,10 +24,13 @@ li {
     height: 50px;
     display: block;
     text-align: center;
-    font-size: 14px;
+    font-size: 15px;
     cursor: pointer;
 }
 
+.l1 {
+	color: white;
+}
 
 a {
     text-decoration: none;
@@ -159,6 +162,7 @@ h1 {
 	margin: 30px 150px;
 	font-size: 11px; 
 }
+
 
 
 
