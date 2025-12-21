@@ -86,7 +86,7 @@ body {
 	color: black;
 	background-color: yellow;
 	border-radius: 35px;
-	width: 15%;
+	width: 25%;
 	height: 30px;
 	border: 0px;
 	float: left;
@@ -100,12 +100,12 @@ body {
 	color: white;
 	background-color: #103545;
 	border-radius: 35px;
-	width: 15%;
+	width: 25%;
 	height: 30px;
 	border: 1px solid #FFFFFF;
 	float: left;
 	margin-top: 10px;
-	margin-right: 8%;
+	margin-right: 15%;
 	font-size: 15px;
 	cursor: pointer;
 }
@@ -133,6 +133,7 @@ body {
 	color: #77DCFF
 
 }
+
 
 
 
