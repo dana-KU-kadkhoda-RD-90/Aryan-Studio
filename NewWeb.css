@@ -78,11 +78,17 @@ body {
 	float: left;
 }
 
+.div3 {
+	width: 40%;
+	margin-left: 5%;
+	float: left;
+}
+
 .b1 {
 	color: black;
 	background-color: yellow;
 	border-radius: 35px;
-	width: 105px;
+	width: 45%;
 	height: 30px;
 	border: 0px;
 	float: right;
@@ -97,7 +103,7 @@ body {
 	color: white;
 	background-color: #103545;
 	border-radius: 35px;
-	width: 105px;
+	width: 45%;
 	height: 30px;
 	border: 1px solid #FFFFFF;
 	float: right;
@@ -130,3 +136,4 @@ body {
 	color: #77DCFF
 
 }
+
