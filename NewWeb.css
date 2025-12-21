@@ -82,7 +82,7 @@ body {
 	color: black;
 	background-color: yellow;
 	border-radius: 35px;
-	width: 120px;
+	width: 105px;
 	height: 30px;
 	border: 0px;
 	float: right;
@@ -97,7 +97,7 @@ body {
 	color: white;
 	background-color: #103545;
 	border-radius: 35px;
-	width: 120px;
+	width: 105px;
 	height: 30px;
 	border: 1px solid #FFFFFF;
 	float: right;
@@ -128,4 +128,5 @@ body {
 
 .a1:hover {
 	color: #77DCFF
+
 }
