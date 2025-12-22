@@ -82,7 +82,7 @@ body {
 	color: black;
 	background-color: yellow;
 	border-radius: 35px;
-	width: 18%;
+	width: 12%;
 	height: 30px;
 	border: 0px;
 	float: left;
@@ -97,7 +97,7 @@ body {
 	color: white;
 	background-color: #103545;
 	border-radius: 35px;
-	width: 18%;
+	width: 12%;
 	height: 30px;
 	border: 1px solid #FFFFFF;
 	float: left;
@@ -130,6 +130,7 @@ body {
 	color: #77DCFF
 
 }
+
 
 
 
