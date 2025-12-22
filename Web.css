@@ -95,8 +95,8 @@ table {
 	margin-top: 0;
 	background-color: #180C2C;
 	border-radius: 15px;
-	margin-left: 10px;
-	margin-right: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
 audio {
@@ -163,6 +163,7 @@ h1 {
 	margin: 30px 150px;
 	font-size: 10px; 
 }
+
 
 
 
