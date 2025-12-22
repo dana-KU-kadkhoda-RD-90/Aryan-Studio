@@ -91,7 +91,7 @@ body {
 	width: 25%;
 	height: 30px;
 	border: 0px;
-	float: right;
+	float: left;
 	font-size: 15px;
 	cursor: pointer;
 	margin-right: 10px;
@@ -106,7 +106,7 @@ body {
 	width: 28%;
 	height: 30px;
 	border: 1px solid #FFFFFF;
-	float: right;
+	float: left;
 	font-size: 15px;
 	cursor: pointer;
 	margin-right: 10px;
@@ -136,6 +136,7 @@ body {
 	color: #77DCFF
 
 }
+
 
 
 
