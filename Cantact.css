@@ -6,10 +6,13 @@
 }
 
 .div1 {
-	width: 40%;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
 	background-color: antiquewhite;
 	float: right;
 	border-radius: 10px;
+	border: 5px solid #1C4A5B
 } 
 
 .p1 {
@@ -18,14 +21,26 @@
 	border: 2px solid #000000;
 	margin: 10px;
 	border-radius: 10px;
+	font-size: 22px;
 }
 
 .p2 {
 	font-family: titrfont;
-	padding-right: 5px;
+	text-align: center;
+	font-size: 25px
 }
 
 .p3 {
 	padding: 8px;
+	text-align: center;
+	font-size: 18px
 	
+}
+
+.img1 {
+	width: 70%;
+	border-radius: 20px;
+	margin-left: 15%;
+	margin-right: 15%;
+	border: 5px solid #1C4A5B;
 }
