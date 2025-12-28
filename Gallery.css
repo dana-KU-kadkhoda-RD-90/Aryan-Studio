@@ -1,0 +1,117 @@
+@charset "utf-8";
+
+
+body {
+	background-image: url(image/image2.jpg);
+	max-width: 100%;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    background-color: #B7B5B5;
+    top: 0;
+    width: 100%;
+}
+
+
+li {
+    float: right;
+    height: 50px;
+    display: block;
+    text-align: center;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+
+a {
+    text-decoration: none;
+    color: #666666;
+    display: block;
+    padding: 15px;
+    transition: all 0.3s;
+}
+
+li a.st  {
+	color: white
+}
+
+li a:hover {
+    color: white;
+}
+
+
+
+
+.divmaster {
+	width: 100%;
+}
+	
+.div1 {
+	background-color: rgba(77,95,157,0.68);
+	width: 22%;
+	height: 160px;
+	border: 1px solid #FFFFFF;
+	border-radius: 15px;
+	margin: 100px;
+	transition: all 0.4s;
+	float: left;
+	
+}
+
+
+.div2 {
+	float: left; 
+	width: 50%;
+	padding-top: 10px;
+	padding-left: 5%;
+	font-size: 40px; 
+	color: white
+}
+
+
+.div {
+	background-color: rgba(77,95,157,0.68);
+	width: 22%;
+	height: 160px;
+	border: 1px solid #FFFFFF;
+	border-radius: 15px;
+	margin: 100px;
+	transition: all 0.4s;
+	float: left;
+	margin-left: 0px
+			
+		}
+.img {
+	width: 91%;
+	margin-left: 4.5%;
+	margin-right: 4.5%;
+	margin-top: 5%;
+	height: 240px;
+	border-radius: 15px;
+	margin-top: 25px;
+	transition: all 0.4s
+	}
+	
+.img:hover {
+	transform: rotate(-3deg);
+	width: 93%;
+	height: 260px;
+	margin-left: 4%;
+	margin-right: 4%;
+
+
+
+}
+		
+.div:hover {
+	transform: rotate(3deg);
+
+}
+
+.div1:hover {
+	transform: rotate(3deg);
+
+}
