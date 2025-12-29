@@ -51,7 +51,7 @@ li a:hover {
 	
 .div1 {
 	background-color: rgba(77,95,157,0.68);
-	width: 22%;
+	width: 20%;
 	height: 160px;
 	border: 1px solid #FFFFFF;
 	border-radius: 15px;
@@ -74,7 +74,7 @@ li a:hover {
 
 .div {
 	background-color: rgba(77,95,157,0.68);
-	width: 22%;
+	width: 20%;
 	height: 160px;
 	border: 1px solid #FFFFFF;
 	border-radius: 15px;
@@ -89,7 +89,7 @@ li a:hover {
 	margin-left: 3.5%;
 	margin-right: 3.5%;
 	margin-top: 5%;
-	height: 230px;
+	height: 235px;
 	border-radius: 15px;
 	margin-top: 25px;
 	transition: all 0.4s
@@ -98,7 +98,7 @@ li a:hover {
 .img:hover {
 	transform: rotate(-3deg);
 	width: 94.5%;
-	height: 260px;
+	height: 255px;
 	margin-left: 2.75%;
 	margin-right: 2.75%;
 
@@ -116,4 +116,5 @@ li a:hover {
 
 
 }
+
 
