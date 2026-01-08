@@ -128,9 +128,13 @@ body {
 
 .a1:hover {
 	color: #77DCFF
-
 }
 
+.h {
+	color: #77DCFF;
+	text-decoration: none;
+	transition: all 0.4s
+}
 
 
 
