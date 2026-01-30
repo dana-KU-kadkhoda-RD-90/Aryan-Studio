@@ -21,10 +21,13 @@ li {
     height: 50px;
     display: block;
     text-align: center;
-    font-size: 18px;
+    font-size: 15px;
     cursor: pointer;
 }
 
+.l1 {
+	color: white;
+}
 
 a {
     text-decoration: none;
@@ -44,77 +47,40 @@ li a:hover {
 
 
 
-
-.divmaster {
+table {
 	width: 100%;
+	text-align: center
 }
 	
-.div1 {
-	background-color: rgba(77,95,157,0.68);
-	width: 20%;
-	height: 160px;
-	border: 1px solid #FFFFFF;
-	border-radius: 15px;
-	margin: 100px;
-	transition: all 0.4s;
-	float: left;
-	
-}
 
 
-.div2 {
-	float: left; 
-	width: 50%;
-	padding-top: 10px;
-	padding-left: 5%;
-	font-size: 40px; 
-	color: white
-}
-
-
-.div {
-	background-color: rgba(77,95,157,0.68);
-	width: 20%;
-	height: 160px;
-	border: 1px solid #FFFFFF;
-	border-radius: 15px;
-	margin: 100px;
-	transition: all 0.4s;
-	float: left;
-	margin-left: 0px
-			
-		}
 .img {
-	width: 93%;
-	margin-left: 3.5%;
-	margin-right: 3.5%;
+	width: 70%;
 	margin-top: 5%;
-	height: 235px;
+	height: 260px;
 	border-radius: 15px;
 	margin-top: 25px;
-	transition: all 0.4s
-	}
+	transition: all 0.6s
+}
 	
 .img:hover {
 	transform: rotate(-3deg);
-	width: 94.5%;
-	height: 255px;
-	margin-left: 2.75%;
-	margin-right: 2.75%;
-
-
-
-}
-		
-.div:hover {
-	transform: rotate(3deg);
-
+	width: 73%;
+	height: 270px;
 }
 
-.div1:hover {
-	transform: rotate(3deg);
-
-
+.gal {
+	color: white;
 }
 
 
+.R {
+	width: 100%;
+
+}
+
+.d {
+	width: 70%;
+	margin-left: 15%;
+	text-align: center
+}
