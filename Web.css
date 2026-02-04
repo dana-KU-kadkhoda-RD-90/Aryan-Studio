@@ -6,16 +6,21 @@
 }
 
 body {
-	background-image: url("image2.png");
+	background-image: url("./image2.png");
 	max-width: 100%;
+}
+
+.header {
+	display: flex;
 }
 
 ul {
     list-style-type: none;
     margin: 0;
-    background-color: #B7B5B5;
     top: 0;
     width: 100%;
+	display: flex;
+	justify-content: end;
 }
 
 
@@ -105,7 +110,6 @@ audio {
 }
 
 .div1 {
-	float: left;
 	width: 38%;
 	padding-left: 2%;
 	padding-top: 10px;
@@ -114,8 +118,8 @@ audio {
 }
 
 .div2 {
-	width: 55%;
-	margin-left: 22.5%;
+	width: 52%;
+	margin-left: 24%;
 }
 
 
@@ -161,6 +165,6 @@ h1 {
 .p5 {
 	color: white;
 	margin: 30px 150px;
-	font-size: 13px;
+	font-size: 15px; 
 	line-height: 22px;
 }
