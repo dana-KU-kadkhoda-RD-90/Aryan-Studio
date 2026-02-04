@@ -118,7 +118,6 @@ audio {
 }
 
 .div2 {
-	width: 52%;
 	margin: 0 auto;
 	display: block;
 }
@@ -169,6 +168,7 @@ h1 {
 	font-size: 15px; 
 	line-height: 22px;
 }
+
 
 
 
